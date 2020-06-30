@@ -31,7 +31,7 @@ library(ggplot2)
 2.Cargamos los datos
 
 ```{r} 
-df = read.csv(file = "../project/DataSetFallosMaquina.csv", head = T, sep = ";")
+df = read.csv(file = "DataSetFallosMaquina.csv", head = T, sep = ";")
 ```
 
 3. Analisis Inicial
